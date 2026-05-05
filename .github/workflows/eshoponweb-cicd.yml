@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-keerthi234
   LOCATION: northeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 694beafc-abc7-443d-a8b7-efd08b6eff3f
+  SUBSCRIPTION-ID: bac4bb35-db12-4e5b-aca1-c3dcf9260daa
   WEBAPP-NAME: eshoponweb-Keerthi
 
 jobs:
